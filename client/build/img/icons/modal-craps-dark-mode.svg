@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+	<title>modal-roll-dark-mode-svg</title>
+	<defs>
+		<image width="96" height="84" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABUCAMAAABKrcKxAAAAAXNSR0IB2cksfwAAAD9QTFRF////////////////////////////////////////////////////////////////////////////////////NZumWwAAABV0Uk5TAICI/9LWGBXRBonm5efkh3d/KS3qH/VcNQAAAf5JREFUeJzt2NtWgzAQBdAA1YptbbX8/7faSgqZZK4h8yR5ysqCs2WAaTAEeXS94qANoxsGV+GR7yr85TsKMd9NWPKdhCTfRQD5DsIr/3CIk84n/+39+OFxDWt+CB5Cmu8hwPz2Qp7fWijz2wpYfksBz28nUPmtBDq/jcDltxD4/O3C0t+Oy9L4eTr34yps6nxIfuizv3eLgNbn9Fy5JAv1VcLrf34ufaUrtQJWnxBLdAVLdVUi8sPYn9ObXC1Iz2cmmKtky7cL1nyrYM+3CTX5FqEuXy8I/YeaB+3TKvUfaq4VxP5DzWdBrtINA9L+Q83hJXzHhZ/LAAdTois/R0t0n4YCQG9y0n+ouS5/IKukGHJ9IlApqPJnoErQ5UegQijyiwEAsyDnZ4BRUOTnAP2TCfsPzOeaUA6wP/qwE+iaXAEQVSr6j6o+KCD3JUs+Boh9CeRLWxYMkPqSJR8HxKdVWx8SEARDPgWwgiWfBBjBlE8DpGDLZwBCMOZzAPo+cM8n1q9YABHY5x/pVwJQVImvT9mvRCAThPqX33EyAKok9QfkO04GEqHc/2SHYt9xMkD/W/M+cafpgeU+ZPV/7E8aAVBI9z+tgFQA+6tmwCrA/Vs74HWnl+dz0p2mB+ZrWN8v7WmGI2/g/XUAQpe+vx5A5Wk7sAP8afqxA/8A+AVJGSGhHG9MGgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="img1" href="#img1" transform="matrix(.375,0,0,.375,5.999,6.749)"/>
+</svg>

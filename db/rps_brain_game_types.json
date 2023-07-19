@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "5e63372a5f84fa4ec458439d"
+  },
+  "game_type_name": "Animals",
+  "created_at": {
+    "$date": "2020-01-28T16:56:06.915Z"
+  },
+  "updated_at": {
+    "$date": "2020-01-28T16:56:06.915Z"
+  }
+},{
+  "_id": {
+    "$oid": "5e6337485f84fa4ec458439e"
+  },
+  "game_type_name": "Languages",
+  "created_at": {
+    "$date": "2020-01-28T16:56:06.915Z"
+  },
+  "updated_at": {
+    "$date": "2020-01-28T16:56:06.915Z"
+  }
+},{
+  "_id": {
+    "$oid": "5e66cb9dd0c5d55d14b040ac"
+  },
+  "game_type_name": "Business",
+  "created_at": {
+    "$date": "2020-03-09T23:05:01.830Z"
+  },
+  "updated_at": {
+    "$date": "2020-03-09T23:05:01.830Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e8493ded1e76819fcb875fa"
+  },
+  "game_type_name": "Maths",
+  "created_at": {
+    "$date": "2020-04-01T13:15:10.432Z"
+  },
+  "updated_at": {
+    "$date": "2020-04-01T13:15:10.432Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e86207c7e53873644fba8da"
+  },
+  "game_type_name": "Countries",
+  "created_at": {
+    "$date": "2020-04-02T17:27:24.500Z"
+  },
+  "updated_at": {
+    "$date": "2020-04-02T17:27:24.500Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f908981bca9c72ce05720a1"
+  },
+  "game_type_name": "Random",
+  "created_at": {
+    "$date": "2021-01-21T19:18:25.460Z"
+  },
+  "updated_at": {
+    "$date": "2020-01-21T19:18:25.460Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5faa86c93037cf6d98c8eb69"
+  },
+  "game_type_name": "Food",
+  "created_at": {
+    "$date": "2020-11-10T12:25:45.417Z"
+  },
+  "updated_at": {
+    "$date": "2020-11-10T12:25:45.417Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fff399f8104c3435d7c6d17"
+  },
+  "game_type_name": "Health",
+  "created_at": {
+    "$date": "2021-01-13T18:19:11.589Z"
+  },
+  "updated_at": {
+    "$date": "2021-01-13T18:19:11.589Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+	<title>modal-drop-game-svg</title>
+	<defs>
+		<image width="48" height="91" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAABbCAMAAAAC7/YsAAAAAXNSR0IB2cksfwAAATJQTFRFGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsb9wovigAAAGZ0Uk5TADIkskAXo//AWO/8NR+snwd+9f4lXuCwLcsqCoWSTOLwt38NiRACZel4P9DoCIBkVd7fAy8MlDrdSBaibfE8Rq/HAWr0qEXYIx6gRJUotBiQD1DBvz33IYjqaGBPwrggcNPJIpqEZYIqxgAAAflJREFUeJyVl2dXAkEMRdeCUVGxC4Ko2MUCiooo9t7r2rv+/78gKi7LTJKZ5PO95w27vJNZx5FNhQyvrKqW4IEaqJXwdfUQbLDHG5sAIGSNN7e0Fvi2dlu+oxN+pssSD0d+cQh2W+HRGBSnx4qP9/7zfQELvL0fvEmY8YHBEg59QyZ8eGTUx8OYiR9P+nGYmDTwU1A+0zyeSiv8zCyHZ2pBnToGn5vXcEgy/EJW52GRxHNLbQhP9mZ4OY/gACsEvxpBcVjD8ep1HAcIY/jG5hbFb2P8zi6FA+zp+H6IxuFAw6ODDI4EHGJvqjRHCn58wuIAp4qg/o3VOVMPZBDyaoCT4AW9+XzCxLlQQJrPHimLNJ9NwIrJCWgxOeFCKFxiPCfgG5N+SlcozwjXuEAeiVpoZEKGEKgEtPmcUCkU9ObzgnsjFLRilgZ9Si6zktGEW5pHE+70YvIJ9wyPJWQ5Hkt4EApJdiUjR3pkeT2BW8mogDafOdKTgdcSjHdlRXg28eqRqGJSCWQxCcF9EQpMb1DB6irrF6YseP9TQhYan/Bqw/sE41VWFdhiIkKa74033o9O2fFewpsl7wn0VRY/ErHQ6AT7b8y/hHdrvpgQFwrmYpYLlp+AJYFeaLgQ/BAKnxK+ILg5ofAl4p1EvfEbUxFiMt55FQY4Uv4bcsZPRzTQz3EAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		.s0 { fill: #1b1b1b } 
+	</style>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m35.9 14.1v19.8l-11.9 6.9-11.9-6.9v-19.8l11.9-6.9zm-11.3 1l4.2 2.4 4.7-2.7-8.9-5.1zm-10-0.3l4.6 2.7 4.2-2.4v-5.4zm-0.6 17.4l4.7-2.7v-10.9l-4.7-2.8zm9.4 0.8l-4.1-2.4-4.7 2.7 8.8 5.1zm0.6-1.1l4.2-2.3v-11l-4.2-2.4-4.1 2.4v11zm9.5 1.3l-4.7-2.7-4.2 2.4v5.4zm0.6-17.4l-4.7 2.7v11l4.7 2.7z"/>
+	<use id="img1" href="#img1" transform="matrix(.066,0,0,.066,21.244,18.291)"/>
+</svg>

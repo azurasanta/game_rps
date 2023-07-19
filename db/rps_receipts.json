@@ -1,0 +1,3405 @@
+[{
+  "_id": {
+    "$oid": "5ede5f8bbd09523dd06f2e1a"
+  },
+  "payment_method": "PayPal",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "5e0015f6d3567d48c489c3e5"
+  },
+  "created_at": {
+    "$date": "2020-06-08T15:55:55.550Z"
+  },
+  "updated_at": {
+    "$date": "2020-06-08T15:55:55.550Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ede6045bc97bd376465932b"
+  },
+  "payment_method": "PayPal",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "5e0015f6d3567d48c489c3e5"
+  },
+  "created_at": {
+    "$date": "2020-06-08T15:59:01.576Z"
+  },
+  "updated_at": {
+    "$date": "2020-06-08T15:59:01.576Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ede60b0716c184dacf571f4"
+  },
+  "payment_method": "PayPal",
+  "amount": 100,
+  "user_id": {
+    "$oid": "5e0015f6d3567d48c489c3e5"
+  },
+  "created_at": {
+    "$date": "2020-06-08T16:00:48.127Z"
+  },
+  "updated_at": {
+    "$date": "2020-06-08T16:00:48.127Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ede700c758bb333b0b679eb"
+  },
+  "payment_method": "Stripe",
+  "email": "",
+  "payment_type": "Deposit",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "5e0015f6d3567d48c489c3e5"
+  },
+  "created_at": {
+    "$date": "2020-06-08T17:06:20.074Z"
+  },
+  "updated_at": {
+    "$date": "2020-06-08T17:06:20.074Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ede709c758bb333b0b679ec"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payment_type": "Deposit",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "5e0015f6d3567d48c489c3e5"
+  },
+  "created_at": {
+    "$date": "2020-06-08T17:08:44.670Z"
+  },
+  "updated_at": {
+    "$date": "2020-06-08T17:08:44.670Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ede70c6758bb333b0b679ed"
+  },
+  "payment_method": "Stripe",
+  "email": "",
+  "payment_type": "Deposit",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "5e0015f6d3567d48c489c3e5"
+  },
+  "created_at": {
+    "$date": "2020-06-08T17:09:26.085Z"
+  },
+  "updated_at": {
+    "$date": "2020-06-08T17:09:26.085Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ede70f7758bb333b0b679ee"
+  },
+  "payment_method": "PayPal",
+  "email": "a@email.com",
+  "payment_type": "Withdraw",
+  "amount": 10000,
+  "user_id": {
+    "$oid": "5e0015f6d3567d48c489c3e5"
+  },
+  "created_at": {
+    "$date": "2020-06-08T17:10:15.603Z"
+  },
+  "updated_at": {
+    "$date": "2020-06-08T17:10:15.603Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edf8724e1b508d16df0fbbb"
+  },
+  "payment_method": "PayPal",
+  "email": "beadl303@hotmail.com",
+  "payment_type": "Withdraw",
+  "amount": 10000,
+  "user_id": {
+    "$oid": "5e37fe5f62d76c4f98a4c367"
+  },
+  "created_at": {
+    "$date": "2020-06-09T12:57:08.983Z"
+  },
+  "updated_at": {
+    "$date": "2020-06-09T12:57:08.983Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee23124d3ef97e11bee8536"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payment_type": "Deposit",
+  "amount": 200,
+  "user_id": {
+    "$oid": "5ee22f80d3ef97e11bee8533"
+  },
+  "created_at": {
+    "$date": "2020-06-11T13:27:00.363Z"
+  },
+  "updated_at": {
+    "$date": "2020-06-11T13:27:00.363Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee416ec9ed962f0cf1b07d6"
+  },
+  "payment_method": "PayPal",
+  "email": "beadl303@hotmail.com",
+  "payment_type": "Withdraw",
+  "amount": 60000,
+  "user_id": {
+    "$oid": "5ee22f80d3ef97e11bee8533"
+  },
+  "created_at": {
+    "$date": "2020-06-12T23:59:40.651Z"
+  },
+  "updated_at": {
+    "$date": "2020-06-12T23:59:40.651Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee416ee9ed962f0cf1b07d7"
+  },
+  "payment_method": "PayPal",
+  "email": "beadl303@hotmail.com",
+  "payment_type": "Withdraw",
+  "amount": 60000,
+  "user_id": {
+    "$oid": "5ee22f80d3ef97e11bee8533"
+  },
+  "created_at": {
+    "$date": "2020-06-12T23:59:42.515Z"
+  },
+  "updated_at": {
+    "$date": "2020-06-12T23:59:42.515Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee416ef9ed962f0cf1b07d8"
+  },
+  "payment_method": "PayPal",
+  "email": "beadl303@hotmail.com",
+  "payment_type": "Withdraw",
+  "amount": 60000,
+  "user_id": {
+    "$oid": "5ee22f80d3ef97e11bee8533"
+  },
+  "created_at": {
+    "$date": "2020-06-12T23:59:43.747Z"
+  },
+  "updated_at": {
+    "$date": "2020-06-12T23:59:43.747Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee416ef9ed962f0cf1b07d9"
+  },
+  "payment_method": "PayPal",
+  "email": "beadl303@hotmail.com",
+  "payment_type": "Withdraw",
+  "amount": 60000,
+  "user_id": {
+    "$oid": "5ee22f80d3ef97e11bee8533"
+  },
+  "created_at": {
+    "$date": "2020-06-12T23:59:43.873Z"
+  },
+  "updated_at": {
+    "$date": "2020-06-12T23:59:43.873Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee417649ed962f0cf1b07da"
+  },
+  "payment_method": "PayPal",
+  "email": "beadl303@hotmail.com",
+  "payment_type": "Withdraw",
+  "amount": 60000,
+  "user_id": {
+    "$oid": "5ee22f80d3ef97e11bee8533"
+  },
+  "created_at": {
+    "$date": "2020-06-13T00:01:40.684Z"
+  },
+  "updated_at": {
+    "$date": "2020-06-13T00:01:40.684Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee417669ed962f0cf1b07db"
+  },
+  "payment_method": "PayPal",
+  "email": "beadl303@hotmail.com",
+  "payment_type": "Withdraw",
+  "amount": 60000,
+  "user_id": {
+    "$oid": "5ee22f80d3ef97e11bee8533"
+  },
+  "created_at": {
+    "$date": "2020-06-13T00:01:42.528Z"
+  },
+  "updated_at": {
+    "$date": "2020-06-13T00:01:42.528Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee417679ed962f0cf1b07dc"
+  },
+  "payment_method": "PayPal",
+  "email": "beadl303@hotmail.com",
+  "payment_type": "Withdraw",
+  "amount": 60000,
+  "user_id": {
+    "$oid": "5ee22f80d3ef97e11bee8533"
+  },
+  "created_at": {
+    "$date": "2020-06-13T00:01:43.760Z"
+  },
+  "updated_at": {
+    "$date": "2020-06-13T00:01:43.760Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee417679ed962f0cf1b07dd"
+  },
+  "payment_method": "PayPal",
+  "email": "beadl303@hotmail.com",
+  "payment_type": "Withdraw",
+  "amount": 60000,
+  "user_id": {
+    "$oid": "5ee22f80d3ef97e11bee8533"
+  },
+  "created_at": {
+    "$date": "2020-06-13T00:01:43.889Z"
+  },
+  "updated_at": {
+    "$date": "2020-06-13T00:01:43.889Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee419139ed962f0cf1b07e2"
+  },
+  "payment_method": "PayPal",
+  "email": "beadl303@hotmail.com",
+  "payment_type": "Withdraw",
+  "amount": 60000,
+  "user_id": {
+    "$oid": "5ee22f80d3ef97e11bee8533"
+  },
+  "created_at": {
+    "$date": "2020-06-13T00:08:51.736Z"
+  },
+  "updated_at": {
+    "$date": "2020-06-13T00:08:51.736Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee5d2df528324f9e4cea241"
+  },
+  "payment_method": "PayPal",
+  "email": "wed@wd.com",
+  "payment_type": "Withdraw",
+  "amount": 500,
+  "user_id": {
+    "$oid": "5e37fe5f62d76c4f98a4c367"
+  },
+  "created_at": {
+    "$date": "2020-06-14T07:33:51.170Z"
+  },
+  "updated_at": {
+    "$date": "2020-06-14T07:33:51.170Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee630762c2072ffccc3670d"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payment_type": "Deposit",
+  "amount": 10000,
+  "user_id": {
+    "$oid": "5ee22f80d3ef97e11bee8533"
+  },
+  "created_at": {
+    "$date": "2020-06-14T14:13:10.293Z"
+  },
+  "updated_at": {
+    "$date": "2020-06-14T14:13:10.293Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f00c4678e938547ab314eff"
+  },
+  "payment_method": "PayPal",
+  "email": "beadl303@hotmail.com",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "5eb8b3d64ec4526200803a54"
+  },
+  "created_at": {
+    "$date": "2020-07-04T18:03:19.315Z"
+  },
+  "updated_at": {
+    "$date": "2020-07-04T18:03:19.315Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f00c4688e938547ab314f00"
+  },
+  "payment_method": "PayPal",
+  "email": "beadl303@hotmail.com",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "5eb8b3d64ec4526200803a54"
+  },
+  "created_at": {
+    "$date": "2020-07-04T18:03:20.280Z"
+  },
+  "updated_at": {
+    "$date": "2020-07-04T18:03:20.280Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f00c4698e938547ab314f01"
+  },
+  "payment_method": "PayPal",
+  "email": "beadl303@hotmail.com",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "5eb8b3d64ec4526200803a54"
+  },
+  "created_at": {
+    "$date": "2020-07-04T18:03:21.724Z"
+  },
+  "updated_at": {
+    "$date": "2020-07-04T18:03:21.724Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f00c4728e938547ab314f02"
+  },
+  "payment_method": "PayPal",
+  "email": "beadl303@hotmail.com",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "5eb8b3d64ec4526200803a54"
+  },
+  "created_at": {
+    "$date": "2020-07-04T18:03:30.974Z"
+  },
+  "updated_at": {
+    "$date": "2020-07-04T18:03:30.974Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f00c4b38e938547ab314f03"
+  },
+  "payment_method": "PayPal",
+  "email": "beadl303@hotmail.com",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 3000,
+  "user_id": {
+    "$oid": "5e37fe5f62d76c4f98a4c367"
+  },
+  "created_at": {
+    "$date": "2020-07-04T18:04:35.402Z"
+  },
+  "updated_at": {
+    "$date": "2020-07-04T18:04:35.402Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f00c4b88e938547ab314f04"
+  },
+  "payment_method": "PayPal",
+  "email": "beadl303@hotmail.com",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 3000,
+  "user_id": {
+    "$oid": "5e37fe5f62d76c4f98a4c367"
+  },
+  "created_at": {
+    "$date": "2020-07-04T18:04:40.172Z"
+  },
+  "updated_at": {
+    "$date": "2020-07-04T18:04:40.172Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f00c4df8e938547ab314f05"
+  },
+  "payment_method": "PayPal",
+  "email": "beadl303@hotmail.com",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "5eb8b3d64ec4526200803a54"
+  },
+  "created_at": {
+    "$date": "2020-07-04T18:05:19.132Z"
+  },
+  "updated_at": {
+    "$date": "2020-07-04T18:05:19.132Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f00c4e08e938547ab314f06"
+  },
+  "payment_method": "PayPal",
+  "email": "beadl303@hotmail.com",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "5eb8b3d64ec4526200803a54"
+  },
+  "created_at": {
+    "$date": "2020-07-04T18:05:20.357Z"
+  },
+  "updated_at": {
+    "$date": "2020-07-04T18:05:20.357Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f00c4e18e938547ab314f07"
+  },
+  "payment_method": "PayPal",
+  "email": "beadl303@hotmail.com",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "5eb8b3d64ec4526200803a54"
+  },
+  "created_at": {
+    "$date": "2020-07-04T18:05:21.742Z"
+  },
+  "updated_at": {
+    "$date": "2020-07-04T18:05:21.742Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f00c4ea8e938547ab314f08"
+  },
+  "payment_method": "PayPal",
+  "email": "beadl303@hotmail.com",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "5eb8b3d64ec4526200803a54"
+  },
+  "created_at": {
+    "$date": "2020-07-04T18:05:30.981Z"
+  },
+  "updated_at": {
+    "$date": "2020-07-04T18:05:30.981Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f00c4f48e938547ab314f09"
+  },
+  "payment_method": "PayPal",
+  "email": "beadl303@hotmail.com",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "5eb8b3d64ec4526200803a54"
+  },
+  "created_at": {
+    "$date": "2020-07-04T18:05:40.076Z"
+  },
+  "updated_at": {
+    "$date": "2020-07-04T18:05:40.076Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f00c4f48e938547ab314f0a"
+  },
+  "payment_method": "PayPal",
+  "email": "beadl303@hotmail.com",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "5eb8b3d64ec4526200803a54"
+  },
+  "created_at": {
+    "$date": "2020-07-04T18:05:40.091Z"
+  },
+  "updated_at": {
+    "$date": "2020-07-04T18:05:40.091Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f00c4f48e938547ab314f0b"
+  },
+  "payment_method": "Bank",
+  "email": "beadl303@hotmail.com",
+  "bank_account_number": "7",
+  "bank_short_code": "U",
+  "payment_type": "Withdraw",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "5eb8b3d64ec4526200803a54"
+  },
+  "created_at": {
+    "$date": "2020-07-04T18:05:40.109Z"
+  },
+  "updated_at": {
+    "$date": "2020-07-04T18:05:40.109Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f00c4f48e938547ab314f0c"
+  },
+  "payment_method": "PayPal",
+  "email": "beadl303@hotmail.com",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "5eb8b3d64ec4526200803a54"
+  },
+  "created_at": {
+    "$date": "2020-07-04T18:05:40.118Z"
+  },
+  "updated_at": {
+    "$date": "2020-07-04T18:05:40.118Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f151800bece9757bce3b102"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 1280,
+  "user_id": {
+    "$oid": "5e0015f6d3567d48c489c3e5"
+  },
+  "created_at": {
+    "$date": "2020-07-20T04:05:20.197Z"
+  },
+  "updated_at": {
+    "$date": "2020-07-20T04:05:20.197Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1519b25d614747b4b02c7d"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 1280,
+  "user_id": {
+    "$oid": "5e0015f6d3567d48c489c3e5"
+  },
+  "created_at": {
+    "$date": "2020-07-20T04:12:34.938Z"
+  },
+  "updated_at": {
+    "$date": "2020-07-20T04:12:34.938Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f243b6311b7192843a6705e"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "5e37fe5f62d76c4f98a4c367"
+  },
+  "created_at": {
+    "$date": "2020-07-31T15:40:19.320Z"
+  },
+  "updated_at": {
+    "$date": "2020-07-31T15:40:19.320Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f243bdb11b7192843a6705f"
+  },
+  "payment_method": "PayPal",
+  "email": "beadl303@aol.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "5e37fe5f62d76c4f98a4c367"
+  },
+  "created_at": {
+    "$date": "2020-07-31T15:42:19.743Z"
+  },
+  "updated_at": {
+    "$date": "2020-07-31T15:42:19.744Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f24422911b7192843a6706d"
+  },
+  "payment_method": "PayPal",
+  "email": "ip@uk",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 600,
+  "user_id": {
+    "$oid": "5e37fe5f62d76c4f98a4c367"
+  },
+  "created_at": {
+    "$date": "2020-07-31T16:09:13.456Z"
+  },
+  "updated_at": {
+    "$date": "2020-07-31T16:09:13.456Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f24428011b7192843a6706f"
+  },
+  "payment_method": "Bank",
+  "email": "",
+  "payee_name": "Hh",
+  "bank_account_number": "Jj",
+  "bank_short_code": "Jj",
+  "payment_type": "Withdraw",
+  "amount": 700,
+  "user_id": {
+    "$oid": "5e37fe5f62d76c4f98a4c367"
+  },
+  "created_at": {
+    "$date": "2020-07-31T16:10:40.801Z"
+  },
+  "updated_at": {
+    "$date": "2020-07-31T16:10:40.801Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f25125611b7192843a67090"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "5ee22f80d3ef97e11bee8533"
+  },
+  "created_at": {
+    "$date": "2020-08-01T06:57:26.941Z"
+  },
+  "updated_at": {
+    "$date": "2020-08-01T06:57:26.941Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f2f5b03858d9548183ca804"
+  },
+  "payment_method": "PayPal",
+  "email": "wangjin8855@hotmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 10000,
+  "user_id": {
+    "$oid": "5e0015f6d3567d48c489c3e5"
+  },
+  "created_at": {
+    "$date": "2020-08-09T02:10:11.471Z"
+  },
+  "updated_at": {
+    "$date": "2020-08-09T02:10:11.471Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f2f5bbce28ef35070a18379"
+  },
+  "payment_method": "PayPal",
+  "email": "test@test.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "5e0015f6d3567d48c489c3e5"
+  },
+  "created_at": {
+    "$date": "2020-08-09T02:13:16.731Z"
+  },
+  "updated_at": {
+    "$date": "2020-08-09T02:13:16.731Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f2f5be6b830cb5e38cb8f12"
+  },
+  "payment_method": "PayPal",
+  "email": "test@test.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 2000,
+  "user_id": {
+    "$oid": "5e0015f6d3567d48c489c3e5"
+  },
+  "created_at": {
+    "$date": "2020-08-09T02:13:58.900Z"
+  },
+  "updated_at": {
+    "$date": "2020-08-09T02:13:58.900Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f2f5e96e7f0511960883966"
+  },
+  "payment_method": "PayPal",
+  "email": "test@test.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 1500,
+  "user_id": {
+    "$oid": "5e0015f6d3567d48c489c3e5"
+  },
+  "created_at": {
+    "$date": "2020-08-09T02:25:26.257Z"
+  },
+  "updated_at": {
+    "$date": "2020-08-09T02:25:26.257Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f2f66fd4bac7053c8b51770"
+  },
+  "payment_method": "PayPal",
+  "email": "test@test.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 2500,
+  "user_id": {
+    "$oid": "5e0015f6d3567d48c489c3e5"
+  },
+  "created_at": {
+    "$date": "2020-08-09T03:01:17.909Z"
+  },
+  "updated_at": {
+    "$date": "2020-08-09T03:01:17.909Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f2f67254bac7053c8b51772"
+  },
+  "payment_method": "Bank",
+  "email": "test@test.com",
+  "payee_name": "jin",
+  "bank_account_number": "123123",
+  "bank_short_code": "321312",
+  "payment_type": "Withdraw",
+  "amount": 2500,
+  "user_id": {
+    "$oid": "5e0015f6d3567d48c489c3e5"
+  },
+  "created_at": {
+    "$date": "2020-08-09T03:01:57.057Z"
+  },
+  "updated_at": {
+    "$date": "2020-08-09T03:01:57.057Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f2f697e4bac7053c8b51775"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 10000,
+  "user_id": {
+    "$oid": "5e0015f6d3567d48c489c3e5"
+  },
+  "created_at": {
+    "$date": "2020-08-09T03:11:58.114Z"
+  },
+  "updated_at": {
+    "$date": "2020-08-09T03:11:58.114Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f2f6c2f4bac7053c8b51777"
+  },
+  "payment_method": "Stripe",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 10000,
+  "user_id": {
+    "$oid": "5e0015f6d3567d48c489c3e5"
+  },
+  "created_at": {
+    "$date": "2020-08-09T03:23:27.455Z"
+  },
+  "updated_at": {
+    "$date": "2020-08-09T03:23:27.455Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f2f6c804bac7053c8b51779"
+  },
+  "payment_method": "Stripe",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 10000,
+  "user_id": {
+    "$oid": "5e0015f6d3567d48c489c3e5"
+  },
+  "created_at": {
+    "$date": "2020-08-09T03:24:48.011Z"
+  },
+  "updated_at": {
+    "$date": "2020-08-09T03:24:48.011Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3230440bc32f71a0c0516b"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "5f25156d11b7192843a67093"
+  },
+  "created_at": {
+    "$date": "2020-08-11T05:44:36.089Z"
+  },
+  "updated_at": {
+    "$date": "2020-08-11T05:44:36.089Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f81afe1fb2e9523c214ba6f"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 600,
+  "user_id": {
+    "$oid": "5ee22f80d3ef97e11bee8533"
+  },
+  "created_at": {
+    "$date": "2020-10-10T12:58:09.461Z"
+  },
+  "updated_at": {
+    "$date": "2020-10-10T12:58:09.461Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8c0aba639de707a3227cc0"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 22000,
+  "user_id": {
+    "$oid": "5ee22f80d3ef97e11bee8533"
+  },
+  "created_at": {
+    "$date": "2020-10-18T09:28:26.345Z"
+  },
+  "updated_at": {
+    "$date": "2020-10-18T09:28:26.345Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ec5a9b580eb0c1dc012dd"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 2000,
+  "user_id": {
+    "$oid": "5ee22f80d3ef97e11bee8533"
+  },
+  "created_at": {
+    "$date": "2020-10-20T11:10:33.402Z"
+  },
+  "updated_at": {
+    "$date": "2020-10-20T11:10:33.402Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90b94e17d3b2144838c527"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 5000,
+  "user_id": {
+    "$oid": "5eb8b3d64ec4526200803a54"
+  },
+  "created_at": {
+    "$date": "2020-10-21T22:42:22.872Z"
+  },
+  "updated_at": {
+    "$date": "2020-10-21T22:42:22.872Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a9eb017d3b2144838c7c0"
+  },
+  "payment_method": "PayPal",
+  "email": "fbg@g.uk",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "5eb8b3d64ec4526200803a54"
+  },
+  "created_at": {
+    "$date": "2020-10-29T10:51:28.222Z"
+  },
+  "updated_at": {
+    "$date": "2020-10-29T10:51:28.222Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa08543e6cf79c9dc3872da"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 10000,
+  "user_id": {
+    "$oid": "5ee22f80d3ef97e11bee8533"
+  },
+  "created_at": {
+    "$date": "2020-11-02T22:16:35.563Z"
+  },
+  "updated_at": {
+    "$date": "2020-11-02T22:16:35.563Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2b38f0d71cb932753619e"
+  },
+  "payment_method": "PayPal",
+  "email": "pp@jj.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 2280,
+  "user_id": {
+    "$oid": "5ee22f80d3ef97e11bee8533"
+  },
+  "created_at": {
+    "$date": "2020-11-16T17:14:55.787Z"
+  },
+  "updated_at": {
+    "$date": "2020-11-16T17:14:55.787Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb3cbf70d71cb9327536228"
+  },
+  "payment_method": "PayPal",
+  "email": "as@rwe.uk",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 49300,
+  "user_id": {
+    "$oid": "5ee22f80d3ef97e11bee8533"
+  },
+  "created_at": {
+    "$date": "2020-11-17T13:11:19.697Z"
+  },
+  "updated_at": {
+    "$date": "2020-11-17T13:11:19.697Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60084706626e210dd58467b2"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 500,
+  "user_id": {
+    "$oid": "5ee22f80d3ef97e11bee8533"
+  },
+  "created_at": {
+    "$date": "2021-01-20T15:06:46.136Z"
+  },
+  "updated_at": {
+    "$date": "2021-01-20T15:06:46.136Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6018498f2e05a70fbbfa33d0"
+  },
+  "payment_method": "Stripe",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 100,
+  "user_id": {
+    "$oid": "5ee22f80d3ef97e11bee8533"
+  },
+  "created_at": {
+    "$date": "2021-02-01T18:33:51.174Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-01T18:33:51.174Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6018a9fb2e05a70fbbfa3420"
+  },
+  "payment_method": "PayPal",
+  "email": "gg@aol.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 460000,
+  "user_id": {
+    "$oid": "60058707f186c019a418e3c8"
+  },
+  "created_at": {
+    "$date": "2021-02-02T01:25:15.837Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-02T01:25:15.837Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6018aa112e05a70fbbfa3422"
+  },
+  "payment_method": "PayPal",
+  "email": "hs@fm.uk",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 21600,
+  "user_id": {
+    "$oid": "60058707f186c019a418e3c8"
+  },
+  "created_at": {
+    "$date": "2021-02-02T01:25:37.452Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-02T01:25:37.452Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60195e0bc71bff2208dd21f2"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 100,
+  "user_id": {
+    "$oid": "5f25156d11b7192843a67093"
+  },
+  "created_at": {
+    "$date": "2021-02-02T14:13:31.358Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-02T14:13:31.358Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6019b7a1c71bff2208dd21f5"
+  },
+  "payment_method": "Stripe",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 2000,
+  "user_id": {
+    "$oid": "6019b761c71bff2208dd21f3"
+  },
+  "created_at": {
+    "$date": "2021-02-02T20:35:45.880Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-02T20:35:45.880Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6019be81c71bff2208dd220f"
+  },
+  "payment_method": "Stripe",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "6019b761c71bff2208dd21f3"
+  },
+  "created_at": {
+    "$date": "2021-02-02T21:05:05.914Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-02T21:05:05.914Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6019db94c71bff2208dd222e"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "6019db63c71bff2208dd222c"
+  },
+  "created_at": {
+    "$date": "2021-02-02T23:09:08.938Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-02T23:09:08.938Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6019dc83c71bff2208dd2235"
+  },
+  "payment_method": "PayPal",
+  "email": "benquick67@yahoo.co.uk",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "6019db63c71bff2208dd222c"
+  },
+  "created_at": {
+    "$date": "2021-02-02T23:13:07.704Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-02T23:13:07.704Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6019df28c71bff2208dd2237"
+  },
+  "payment_method": "PayPal",
+  "email": "beadl303@hotmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 500,
+  "user_id": {
+    "$oid": "5f25156d11b7192843a67093"
+  },
+  "created_at": {
+    "$date": "2021-02-02T23:24:24.602Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-02T23:24:24.602Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601a943fc71bff2208dd223f"
+  },
+  "payment_method": "Stripe",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 2000,
+  "user_id": {
+    "$oid": "6019b761c71bff2208dd21f3"
+  },
+  "created_at": {
+    "$date": "2021-02-03T12:17:03.656Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-03T12:17:03.656Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601af6f2c71bff2208dd22d1"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 5000,
+  "user_id": {
+    "$oid": "601af66ec71bff2208dd22cf"
+  },
+  "created_at": {
+    "$date": "2021-02-03T19:18:10.453Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-03T19:18:10.453Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601b49b1ab5a80129e3dd9ab"
+  },
+  "payment_method": "PayPal",
+  "email": "test@test.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 10000,
+  "user_id": {
+    "$oid": "5e0015f6d3567d48c489c3e5"
+  },
+  "created_at": {
+    "$date": "2021-02-04T01:11:13.278Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-04T01:11:13.278Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6020f3f487be7468ab056ee6"
+  },
+  "payment_method": "Stripe",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "6020f2fd87be7468ab056ee4"
+  },
+  "created_at": {
+    "$date": "2021-02-08T08:19:00.444Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-08T08:19:00.444Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6020f41f87be7468ab056ee8"
+  },
+  "payment_method": "Stripe",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 100,
+  "user_id": {
+    "$oid": "6020f2fd87be7468ab056ee4"
+  },
+  "created_at": {
+    "$date": "2021-02-08T08:19:43.596Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-08T08:19:43.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6020f6c487be7468ab056ef8"
+  },
+  "payment_method": "PayPal",
+  "email": "jbenson233@gmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "6020f42e87be7468ab056ee9"
+  },
+  "created_at": {
+    "$date": "2021-02-08T08:31:00.694Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-08T08:31:00.694Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6021226587be7468ab056f04"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 500,
+  "user_id": {
+    "$oid": "6021218787be7468ab056f02"
+  },
+  "created_at": {
+    "$date": "2021-02-08T11:37:09.344Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-08T11:37:09.344Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60213e82e440c22f6f0ecd3e"
+  },
+  "payment_method": "PayPal",
+  "email": "dww@wd",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "5f25156d11b7192843a67093"
+  },
+  "created_at": {
+    "$date": "2021-02-08T13:37:06.554Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-08T13:37:06.554Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60214714e440c22f6f0ecd42"
+  },
+  "payment_method": "Stripe",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 100,
+  "user_id": {
+    "$oid": "602145ede440c22f6f0ecd40"
+  },
+  "created_at": {
+    "$date": "2021-02-08T14:13:40.546Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-08T14:13:40.546Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6021476ce440c22f6f0ecd48"
+  },
+  "payment_method": "Stripe",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 100,
+  "user_id": {
+    "$oid": "602145ede440c22f6f0ecd40"
+  },
+  "created_at": {
+    "$date": "2021-02-08T14:15:08.767Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-08T14:15:08.767Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6021481ae440c22f6f0ecd4d"
+  },
+  "payment_method": "PayPal",
+  "email": "wangjin8855@hotmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 10000,
+  "user_id": {
+    "$oid": "5e0015f6d3567d48c489c3e5"
+  },
+  "created_at": {
+    "$date": "2021-02-08T14:18:02.301Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-08T14:18:02.301Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6021485fe440c22f6f0ecd60"
+  },
+  "payment_method": "Stripe",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 100,
+  "user_id": {
+    "$oid": "602145ede440c22f6f0ecd40"
+  },
+  "created_at": {
+    "$date": "2021-02-08T14:19:11.476Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-08T14:19:11.476Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60214927e440c22f6f0ecd64"
+  },
+  "payment_method": "Stripe",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 100,
+  "user_id": {
+    "$oid": "602145ede440c22f6f0ecd40"
+  },
+  "created_at": {
+    "$date": "2021-02-08T14:22:31.676Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-08T14:22:31.676Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60214a3fe440c22f6f0ecd68"
+  },
+  "payment_method": "Stripe",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 100,
+  "user_id": {
+    "$oid": "602145ede440c22f6f0ecd40"
+  },
+  "created_at": {
+    "$date": "2021-02-08T14:27:11.066Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-08T14:27:11.066Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60216956feef6e30951eedce"
+  },
+  "payment_method": "PayPal",
+  "email": "tamaragrinter@gmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 2300,
+  "user_id": {
+    "$oid": "6021218787be7468ab056f02"
+  },
+  "created_at": {
+    "$date": "2021-02-08T16:39:50.787Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-08T16:39:50.787Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6021ba9efeef6e30951eee5a"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "6019db63c71bff2208dd222c"
+  },
+  "created_at": {
+    "$date": "2021-02-08T22:26:38.222Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-08T22:26:38.222Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6021c591feef6e30951eee75"
+  },
+  "payment_method": "Stripe",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 100,
+  "user_id": {
+    "$oid": "6020f2fd87be7468ab056ee4"
+  },
+  "created_at": {
+    "$date": "2021-02-08T23:13:21.551Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-08T23:13:21.551Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6021c61bfeef6e30951eee8a"
+  },
+  "payment_method": "Stripe",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 2000,
+  "user_id": {
+    "$oid": "6020f2fd87be7468ab056ee4"
+  },
+  "created_at": {
+    "$date": "2021-02-08T23:15:39.191Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-08T23:15:39.191Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6021cabafeef6e30951eef57"
+  },
+  "payment_method": "Stripe",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 2000,
+  "user_id": {
+    "$oid": "6020f2fd87be7468ab056ee4"
+  },
+  "created_at": {
+    "$date": "2021-02-08T23:35:22.851Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-08T23:35:22.851Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6021cb22feef6e30951eef65"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 3000,
+  "user_id": {
+    "$oid": "6019db63c71bff2208dd222c"
+  },
+  "created_at": {
+    "$date": "2021-02-08T23:37:06.543Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-08T23:37:06.543Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6021cbe9feef6e30951eef9a"
+  },
+  "payment_method": "Stripe",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 5000,
+  "user_id": {
+    "$oid": "6020f2fd87be7468ab056ee4"
+  },
+  "created_at": {
+    "$date": "2021-02-08T23:40:25.268Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-08T23:40:25.268Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6021cd7bfeef6e30951ef008"
+  },
+  "payment_method": "Stripe",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 5000,
+  "user_id": {
+    "$oid": "6020f2fd87be7468ab056ee4"
+  },
+  "created_at": {
+    "$date": "2021-02-08T23:47:07.967Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-08T23:47:07.967Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6021ce6afeef6e30951ef02e"
+  },
+  "payment_method": "Stripe",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 2000,
+  "user_id": {
+    "$oid": "6020f2fd87be7468ab056ee4"
+  },
+  "created_at": {
+    "$date": "2021-02-08T23:51:06.334Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-08T23:51:06.334Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6021ceaffeef6e30951ef03a"
+  },
+  "payment_method": "Stripe",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 2000,
+  "user_id": {
+    "$oid": "6020f2fd87be7468ab056ee4"
+  },
+  "created_at": {
+    "$date": "2021-02-08T23:52:15.442Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-08T23:52:15.442Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6021cf45feef6e30951ef05a"
+  },
+  "payment_method": "Stripe",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "6020f2fd87be7468ab056ee4"
+  },
+  "created_at": {
+    "$date": "2021-02-08T23:54:45.514Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-08T23:54:45.514Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602299d7feef6e30951ef17e"
+  },
+  "payment_method": "Stripe",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 300,
+  "user_id": {
+    "$oid": "60229857feef6e30951ef17c"
+  },
+  "created_at": {
+    "$date": "2021-02-09T14:19:03.873Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-09T14:19:03.873Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6022ca5afeef6e30951ef1a5"
+  },
+  "payment_method": "PayPal",
+  "email": "mason.corey11@gmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 2500,
+  "user_id": {
+    "$oid": "60218771feef6e30951eedd1"
+  },
+  "created_at": {
+    "$date": "2021-02-09T17:46:02.579Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-09T17:46:02.579Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60245284feef6e30951ef33a"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "602450bcfeef6e30951ef338"
+  },
+  "created_at": {
+    "$date": "2021-02-10T21:39:16.895Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-10T21:39:16.895Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602455dcfeef6e30951ef34c"
+  },
+  "payment_method": "Stripe",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 500,
+  "user_id": {
+    "$oid": "602450bcfeef6e30951ef338"
+  },
+  "created_at": {
+    "$date": "2021-02-10T21:53:32.474Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-10T21:53:32.474Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602456c4feef6e30951ef356"
+  },
+  "payment_method": "Bank",
+  "email": "",
+  "payee_name": "Travis Reed",
+  "bank_account_number": "89846163",
+  "bank_short_code": "309668",
+  "payment_type": "Withdraw",
+  "amount": 5500,
+  "user_id": {
+    "$oid": "602450bcfeef6e30951ef338"
+  },
+  "created_at": {
+    "$date": "2021-02-10T21:57:24.359Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-10T21:57:24.359Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6025b9fecdb777619a0c0437"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 500,
+  "user_id": {
+    "$oid": "6025b965cdb777619a0c0431"
+  },
+  "created_at": {
+    "$date": "2021-02-11T23:13:02.058Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-11T23:13:02.058Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60263b43cdb777619a0c048b"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 600,
+  "user_id": {
+    "$oid": "60263a03cdb777619a0c0489"
+  },
+  "created_at": {
+    "$date": "2021-02-12T08:24:35.445Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-12T08:24:35.445Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6026bd85cdb777619a0c0525"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 2000,
+  "user_id": {
+    "$oid": "5f357ef00bc32f71a0c05184"
+  },
+  "created_at": {
+    "$date": "2021-02-12T17:40:21.985Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-12T17:40:21.985Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602ff1e3cdb777619a0c058f"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 1500,
+  "user_id": {
+    "$oid": "602fefc1cdb777619a0c058d"
+  },
+  "created_at": {
+    "$date": "2021-02-19T17:14:11.318Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-19T17:14:11.318Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602ff270cdb777619a0c0599"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "602fefc1cdb777619a0c058d"
+  },
+  "created_at": {
+    "$date": "2021-02-19T17:16:32.466Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-19T17:16:32.466Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602ff440cdb777619a0c05ab"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "602fefc1cdb777619a0c058d"
+  },
+  "created_at": {
+    "$date": "2021-02-19T17:24:16.585Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-19T17:24:16.585Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602ff47bcdb777619a0c05b6"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 500,
+  "user_id": {
+    "$oid": "6022f736feef6e30951ef223"
+  },
+  "created_at": {
+    "$date": "2021-02-19T17:25:15.370Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-19T17:25:15.370Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602ff58bcdb777619a0c05d4"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "602ff465cdb777619a0c05b4"
+  },
+  "created_at": {
+    "$date": "2021-02-19T17:29:47.651Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-19T17:29:47.651Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603009d7cdb777619a0c063b"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 1500,
+  "user_id": {
+    "$oid": "602fefc1cdb777619a0c058d"
+  },
+  "created_at": {
+    "$date": "2021-02-19T18:56:23.543Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-19T18:56:23.543Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60300d44cdb777619a0c0646"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "602ff465cdb777619a0c05b4"
+  },
+  "created_at": {
+    "$date": "2021-02-19T19:11:00.529Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-19T19:11:00.529Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6030136bcdb777619a0c0651"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 500,
+  "user_id": {
+    "$oid": "603011cecdb777619a0c064f"
+  },
+  "created_at": {
+    "$date": "2021-02-19T19:37:15.888Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-19T19:37:15.888Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60301bfccdb777619a0c066c"
+  },
+  "payment_method": "PayPal",
+  "email": "mattmillman.mm@gmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "602ff465cdb777619a0c05b4"
+  },
+  "created_at": {
+    "$date": "2021-02-19T20:13:48.084Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-19T20:13:48.084Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6030315bcdb777619a0c068d"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "602fefc1cdb777619a0c058d"
+  },
+  "created_at": {
+    "$date": "2021-02-19T21:44:59.873Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-19T21:44:59.873Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6031a5b3cdb777619a0c06e2"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 800,
+  "user_id": {
+    "$oid": "5f25156d11b7192843a67093"
+  },
+  "created_at": {
+    "$date": "2021-02-21T00:13:39.999Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-21T00:13:39.999Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6031ccb8cdb777619a0c0702"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 2000,
+  "user_id": {
+    "$oid": "6031cbd8cdb777619a0c0700"
+  },
+  "created_at": {
+    "$date": "2021-02-21T03:00:08.095Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-21T03:00:08.095Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60322642cdb777619a0c0779"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 2500,
+  "user_id": {
+    "$oid": "602450bcfeef6e30951ef338"
+  },
+  "created_at": {
+    "$date": "2021-02-21T09:22:10.336Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-21T09:22:10.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60322e03cdb777619a0c079c"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 400,
+  "user_id": {
+    "$oid": "5f25156d11b7192843a67093"
+  },
+  "created_at": {
+    "$date": "2021-02-21T09:55:15.143Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-21T09:55:15.143Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6032a68ecdb777619a0c07b4"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 100,
+  "user_id": {
+    "$oid": "6019df7dc71bff2208dd2239"
+  },
+  "created_at": {
+    "$date": "2021-02-21T18:29:34.721Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-21T18:29:34.721Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6032a6ffcdb777619a0c07ba"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 100,
+  "user_id": {
+    "$oid": "6019df7dc71bff2208dd2239"
+  },
+  "created_at": {
+    "$date": "2021-02-21T18:31:27.614Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-21T18:31:27.614Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6032a7d0cdb777619a0c07c0"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 140,
+  "user_id": {
+    "$oid": "6019df7dc71bff2208dd2239"
+  },
+  "created_at": {
+    "$date": "2021-02-21T18:34:56.851Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-21T18:34:56.851Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6032a7f7cdb777619a0c07c1"
+  },
+  "payment_method": "Bank",
+  "email": "",
+  "payee_name": "Mr James P Forrest",
+  "bank_account_number": "66023793",
+  "bank_short_code": "010917",
+  "payment_type": "Withdraw",
+  "amount": 500,
+  "user_id": {
+    "$oid": "6019df7dc71bff2208dd2239"
+  },
+  "created_at": {
+    "$date": "2021-02-21T18:35:35.970Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-21T18:35:35.970Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60363b91cdb777619a0c083c"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 600,
+  "user_id": {
+    "$oid": "6031cbd8cdb777619a0c0700"
+  },
+  "created_at": {
+    "$date": "2021-02-24T11:42:09.457Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-24T11:42:09.457Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60398404cdb777619a0c084d"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 20000,
+  "user_id": {
+    "$oid": "603981dfcdb777619a0c084b"
+  },
+  "created_at": {
+    "$date": "2021-02-26T23:28:04.376Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-26T23:28:04.377Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603ab792532a8e0b0c9d5827"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 2,
+  "user_id": {
+    "$oid": "603ab693532a8e0b0c9d5825"
+  },
+  "created_at": {
+    "$date": "2021-02-27T21:20:18.190Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-27T21:20:18.190Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603bcab5532a8e0b0c9d5881"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 200,
+  "user_id": {
+    "$oid": "603bc9b4532a8e0b0c9d5867"
+  },
+  "created_at": {
+    "$date": "2021-02-28T16:54:13.530Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-28T16:54:13.530Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603bcf33532a8e0b0c9d593a"
+  },
+  "payment_method": "PayPal",
+  "email": "aaenthic@gmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 1627,
+  "user_id": {
+    "$oid": "603bc788532a8e0b0c9d5844"
+  },
+  "created_at": {
+    "$date": "2021-02-28T17:13:23.749Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-28T17:13:23.749Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603bcfdd532a8e0b0c9d5989"
+  },
+  "payment_method": "PayPal",
+  "email": "aaenthic@gmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 5313,
+  "user_id": {
+    "$oid": "603bc788532a8e0b0c9d5844"
+  },
+  "created_at": {
+    "$date": "2021-02-28T17:16:13.043Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-28T17:16:13.043Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603bd2b6532a8e0b0c9d5a16"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 500,
+  "user_id": {
+    "$oid": "603bd25c532a8e0b0c9d59fb"
+  },
+  "created_at": {
+    "$date": "2021-02-28T17:28:22.548Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-28T17:28:22.548Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603bd4e1532a8e0b0c9d5ac3"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "603bd3f9532a8e0b0c9d5a5a"
+  },
+  "created_at": {
+    "$date": "2021-02-28T17:37:37.816Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-28T17:37:37.816Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603bd520532a8e0b0c9d5add"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 6900,
+  "user_id": {
+    "$oid": "603bd3f9532a8e0b0c9d5a5a"
+  },
+  "created_at": {
+    "$date": "2021-02-28T17:38:40.757Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-28T17:38:40.757Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603bd7f7532a8e0b0c9d5c0c"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 500,
+  "user_id": {
+    "$oid": "603bc9b4532a8e0b0c9d5867"
+  },
+  "created_at": {
+    "$date": "2021-02-28T17:50:47.758Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-28T17:50:47.758Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603bd868532a8e0b0c9d5c26"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 500,
+  "user_id": {
+    "$oid": "5fb2bbd00d71cb93275361a0"
+  },
+  "created_at": {
+    "$date": "2021-02-28T17:52:40.170Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-28T17:52:40.170Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603bd881532a8e0b0c9d5c4c"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 500,
+  "user_id": {
+    "$oid": "603bc9b4532a8e0b0c9d5867"
+  },
+  "created_at": {
+    "$date": "2021-02-28T17:53:05.455Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-28T17:53:05.455Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603be0c7532a8e0b0c9d5dd6"
+  },
+  "payment_method": "PayPal",
+  "email": "Easonshao1004@gmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 6442,
+  "user_id": {
+    "$oid": "603bd04b532a8e0b0c9d5992"
+  },
+  "created_at": {
+    "$date": "2021-02-28T18:28:23.757Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-28T18:28:23.757Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603be47a532a8e0b0c9d5e23"
+  },
+  "payment_method": "Bank",
+  "email": "",
+  "payee_name": "Mohammed Islam",
+  "bank_account_number": "08419377",
+  "bank_short_code": "070806",
+  "payment_type": "Withdraw",
+  "amount": 4767,
+  "user_id": {
+    "$oid": "603bd25c532a8e0b0c9d59fb"
+  },
+  "created_at": {
+    "$date": "2021-02-28T18:44:10.381Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-28T18:44:10.381Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603bea58532a8e0b0c9d5e72"
+  },
+  "payment_method": "PayPal",
+  "email": "aaenthic@gmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 2700,
+  "user_id": {
+    "$oid": "603bc788532a8e0b0c9d5844"
+  },
+  "created_at": {
+    "$date": "2021-02-28T19:09:12.641Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-28T19:09:12.641Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603beb30532a8e0b0c9d5e74"
+  },
+  "payment_method": "PayPal",
+  "email": "ron@airpodcases.ca",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 100000,
+  "user_id": {
+    "$oid": "603be7de532a8e0b0c9d5e55"
+  },
+  "created_at": {
+    "$date": "2021-02-28T19:12:48.944Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-28T19:12:48.944Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603beb7b532a8e0b0c9d5e7b"
+  },
+  "payment_method": "PayPal",
+  "email": "zoopzse@protonmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 100000,
+  "user_id": {
+    "$oid": "603be7de532a8e0b0c9d5e55"
+  },
+  "created_at": {
+    "$date": "2021-02-28T19:14:03.560Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-28T19:14:03.560Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603beb86532a8e0b0c9d5e7d"
+  },
+  "payment_method": "PayPal",
+  "email": "justsiu05@gmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 100000,
+  "user_id": {
+    "$oid": "603bc7d4532a8e0b0c9d5845"
+  },
+  "created_at": {
+    "$date": "2021-02-28T19:14:14.291Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-28T19:14:14.291Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603beb88532a8e0b0c9d5e7f"
+  },
+  "payment_method": "PayPal",
+  "email": "zoopzse@protonmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 50000,
+  "user_id": {
+    "$oid": "603be7de532a8e0b0c9d5e55"
+  },
+  "created_at": {
+    "$date": "2021-02-28T19:14:16.893Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-28T19:14:16.893Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603bec1c532a8e0b0c9d5e81"
+  },
+  "payment_method": "PayPal",
+  "email": "Easonshao1004@gmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 10000,
+  "user_id": {
+    "$oid": "603bde02532a8e0b0c9d5d7e"
+  },
+  "created_at": {
+    "$date": "2021-02-28T19:16:44.103Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-28T19:16:44.103Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603bed70532a8e0b0c9d5e8b"
+  },
+  "payment_method": "PayPal",
+  "email": "marcus760services@gmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 5500,
+  "user_id": {
+    "$oid": "603bd4c6532a8e0b0c9d5aaf"
+  },
+  "created_at": {
+    "$date": "2021-02-28T19:22:24.989Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-28T19:22:24.989Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603bee0c532a8e0b0c9d5e8e"
+  },
+  "payment_method": "PayPal",
+  "email": "Pomelonmc@gmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 50000,
+  "user_id": {
+    "$oid": "603bde02532a8e0b0c9d5d7e"
+  },
+  "created_at": {
+    "$date": "2021-02-28T19:25:00.700Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-28T19:25:00.700Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603bee23532a8e0b0c9d5e90"
+  },
+  "payment_method": "PayPal",
+  "email": "Pomelonmc@gmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 10000,
+  "user_id": {
+    "$oid": "603bde02532a8e0b0c9d5d7e"
+  },
+  "created_at": {
+    "$date": "2021-02-28T19:25:23.456Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-28T19:25:23.456Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603bee29532a8e0b0c9d5e92"
+  },
+  "payment_method": "PayPal",
+  "email": "Pomelonmc@gmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 5000,
+  "user_id": {
+    "$oid": "603bde02532a8e0b0c9d5d7e"
+  },
+  "created_at": {
+    "$date": "2021-02-28T19:25:29.961Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-28T19:25:29.961Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603bee2f532a8e0b0c9d5e94"
+  },
+  "payment_method": "PayPal",
+  "email": "Pomelonmc@gmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 5000,
+  "user_id": {
+    "$oid": "603bde02532a8e0b0c9d5d7e"
+  },
+  "created_at": {
+    "$date": "2021-02-28T19:25:35.163Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-28T19:25:35.163Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603bf665532a8e0b0c9d5e9f"
+  },
+  "payment_method": "PayPal",
+  "email": "gteduchan@gmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 7900,
+  "user_id": {
+    "$oid": "603bd245532a8e0b0c9d59f6"
+  },
+  "created_at": {
+    "$date": "2021-02-28T20:00:37.034Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-28T20:00:37.034Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603c0824532a8e0b0c9d5efc"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "603bc788532a8e0b0c9d5844"
+  },
+  "created_at": {
+    "$date": "2021-02-28T21:16:20.582Z"
+  },
+  "updated_at": {
+    "$date": "2021-02-28T21:16:20.582Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603c8c86532a8e0b0c9d5fe0"
+  },
+  "payment_method": "PayPal",
+  "email": "aaenthic@gmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 2900,
+  "user_id": {
+    "$oid": "603bc788532a8e0b0c9d5844"
+  },
+  "created_at": {
+    "$date": "2021-03-01T06:41:10.347Z"
+  },
+  "updated_at": {
+    "$date": "2021-03-01T06:41:10.347Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603ca45d532a8e0b0c9d5fe3"
+  },
+  "payment_method": "PayPal",
+  "email": "sandev.fernando17+paypal@gmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 1411,
+  "user_id": {
+    "$oid": "603bc9b4532a8e0b0c9d5867"
+  },
+  "created_at": {
+    "$date": "2021-03-01T08:22:53.882Z"
+  },
+  "updated_at": {
+    "$date": "2021-03-01T08:22:53.882Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603d98d2532a8e0b0c9d6078"
+  },
+  "payment_method": "PayPal",
+  "email": "excidedreturn@hotmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 2050,
+  "user_id": {
+    "$oid": "603bc5fa532a8e0b0c9d583f"
+  },
+  "created_at": {
+    "$date": "2021-03-02T01:45:54.579Z"
+  },
+  "updated_at": {
+    "$date": "2021-03-02T01:45:54.579Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603d98d2532a8e0b0c9d607a"
+  },
+  "payment_method": "PayPal",
+  "email": "excidedreturn@hotmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 2050,
+  "user_id": {
+    "$oid": "603bc5fa532a8e0b0c9d583f"
+  },
+  "created_at": {
+    "$date": "2021-03-02T01:45:54.605Z"
+  },
+  "updated_at": {
+    "$date": "2021-03-02T01:45:54.605Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603db6a759996e3e6c7b2ce9"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 5000,
+  "user_id": {
+    "$oid": "5e0015f6d3567d48c489c3e5"
+  },
+  "created_at": {
+    "$date": "2021-03-02T03:53:11.046Z"
+  },
+  "updated_at": {
+    "$date": "2021-03-02T03:53:11.046Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603dc04f31260520e4da9585"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 5000,
+  "user_id": {
+    "$oid": "5e0015f6d3567d48c489c3e5"
+  },
+  "created_at": {
+    "$date": "2021-03-02T04:34:23.451Z"
+  },
+  "updated_at": {
+    "$date": "2021-03-02T04:34:23.451Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603e77bd74179338db9e4067"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 252,
+  "user_id": {
+    "$oid": "603bc5fa532a8e0b0c9d583f"
+  },
+  "created_at": {
+    "$date": "2021-03-02T17:37:01.768Z"
+  },
+  "updated_at": {
+    "$date": "2021-03-02T17:37:01.768Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6040dadb74179338db9e4073"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 500,
+  "user_id": {
+    "$oid": "603bc9b4532a8e0b0c9d5867"
+  },
+  "created_at": {
+    "$date": "2021-03-04T13:04:27.968Z"
+  },
+  "updated_at": {
+    "$date": "2021-03-04T13:04:27.968Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6040db4c74179338db9e4074"
+  },
+  "payment_method": "PayPal",
+  "email": "sandev.fernando17+paypal@gmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 500,
+  "user_id": {
+    "$oid": "603bc9b4532a8e0b0c9d5867"
+  },
+  "created_at": {
+    "$date": "2021-03-04T13:06:20.520Z"
+  },
+  "updated_at": {
+    "$date": "2021-03-04T13:06:20.520Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60412a9ff4b60f60a1896635"
+  },
+  "payment_method": "PayPal",
+  "email": "mason.corey1@gmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 8235,
+  "user_id": {
+    "$oid": "60218771feef6e30951eedd1"
+  },
+  "created_at": {
+    "$date": "2021-03-04T18:44:47.264Z"
+  },
+  "updated_at": {
+    "$date": "2021-03-04T18:44:47.264Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604784772b6c64251293d8d7"
+  },
+  "payment_method": "Bank",
+  "email": "",
+  "payee_name": "Tobias Chapman",
+  "bank_account_number": "53029107",
+  "bank_short_code": "206810",
+  "payment_type": "Withdraw",
+  "amount": 20009,
+  "user_id": {
+    "$oid": "6019b761c71bff2208dd21f3"
+  },
+  "created_at": {
+    "$date": "2021-03-09T14:21:43.136Z"
+  },
+  "updated_at": {
+    "$date": "2021-03-09T14:21:43.136Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605237a22b6c64251293d9a7"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 500,
+  "user_id": {
+    "$oid": "603bc9b4532a8e0b0c9d5867"
+  },
+  "created_at": {
+    "$date": "2021-03-17T17:08:50.212Z"
+  },
+  "updated_at": {
+    "$date": "2021-03-17T17:08:50.212Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60523b102b6c64251293dbd0"
+  },
+  "payment_method": "PayPal",
+  "email": "sandev.fernando17+paypal@gmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 1094,
+  "user_id": {
+    "$oid": "603bc9b4532a8e0b0c9d5867"
+  },
+  "created_at": {
+    "$date": "2021-03-17T17:23:28.588Z"
+  },
+  "updated_at": {
+    "$date": "2021-03-17T17:23:28.588Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60523b312b6c64251293dbd2"
+  },
+  "payment_method": "PayPal",
+  "email": "aaenthic@gmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 7000,
+  "user_id": {
+    "$oid": "603bc788532a8e0b0c9d5844"
+  },
+  "created_at": {
+    "$date": "2021-03-17T17:24:01.207Z"
+  },
+  "updated_at": {
+    "$date": "2021-03-17T17:24:01.207Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60523d1a2b6c64251293dbf1"
+  },
+  "payment_method": "PayPal",
+  "email": "r13@riseup.net",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 6700,
+  "user_id": {
+    "$oid": "60522b012b6c64251293d8f1"
+  },
+  "created_at": {
+    "$date": "2021-03-17T17:32:10.218Z"
+  },
+  "updated_at": {
+    "$date": "2021-03-17T17:32:10.218Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60549a9e2b6c64251293dbf5"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 1000,
+  "user_id": {
+    "$oid": "60549a5e2b6c64251293dbf3"
+  },
+  "created_at": {
+    "$date": "2021-03-19T12:35:42.382Z"
+  },
+  "updated_at": {
+    "$date": "2021-03-19T12:35:42.382Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6064e4992b6c64251293dc10"
+  },
+  "payment_method": "PayPal",
+  "email": "mason.corey11@gmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 1395,
+  "user_id": {
+    "$oid": "60218771feef6e30951eedd1"
+  },
+  "created_at": {
+    "$date": "2021-03-31T21:07:37.662Z"
+  },
+  "updated_at": {
+    "$date": "2021-03-31T21:07:37.662Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b12df5c3fb3e51da2c209a"
+  },
+  "payment_method": "PayPal",
+  "email": "jawilkin2@gmail.com",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Withdraw",
+  "amount": 500,
+  "user_id": {
+    "$oid": "5eb8b3d64ec4526200803a54"
+  },
+  "created_at": {
+    "$date": "2021-05-28T17:52:53.040Z"
+  },
+  "updated_at": {
+    "$date": "2021-05-28T17:52:53.041Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c4b89d059bd01a92b0b4b5"
+  },
+  "payment_method": "PayPal",
+  "email": "",
+  "payee_name": "",
+  "bank_account_number": "",
+  "bank_short_code": "",
+  "payment_type": "Deposit",
+  "amount": 100,
+  "user_id": {
+    "$oid": "60c4b83b059bd01a92b0b4b3"
+  },
+  "created_at": {
+    "$date": "2021-06-12T13:37:33.653Z"
+  },
+  "updated_at": {
+    "$date": "2021-06-12T13:37:33.653Z"
+  },
+  "__v": 0
+}]

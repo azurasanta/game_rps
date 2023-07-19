@@ -1,0 +1,8 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+	<title>modal-drop-game-dark-mode-svg</title>
+	<style>
+		.s0 { fill: #ffffff } 
+	</style>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m35.9 14v20l-11.9 6.9-11.9-6.9v-20l11.9-6.9zm-11.3 1.1l4.1 2.4 4.8-2.7-8.9-5.2zm-10.1-0.3l4.7 2.7 4.2-2.4v-5.4zm-0.7 17.4l4.8-2.7v-10.9l-4.8-2.7zm9.5 0.7l-4.1-2.4-4.7 2.7 8.8 5.1zm0.6-1l4.2-2.4v-11l-4.2-2.4-4.1 2.4v11zm9.5 1.4l-4.7-2.8-4.2 2.4v5.5zm0.6-17.5l-4.7 2.7v11l4.7 2.7z"/>
+	<path id="Layer" class="s0" d="m21.3 20.2l3.1-1.9-3.1 5.9z"/>
+</svg>

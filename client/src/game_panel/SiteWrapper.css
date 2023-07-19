@@ -1,0 +1,421 @@
+.game_header {
+    position: fixed;
+    width: 100%;
+    z-index: 2;
+    background-color: #f8f9fa;
+    top: 0;
+}
+.main-game-page-tabs button span {
+    display: inline-block !important;
+  }
+ .main-game-page-tabs button:hover,.main-game-page-tabs button[aria-selected="true"] {
+    color: #101010 !important;
+  }
+  .avatar-square {
+    background: #b9bbbe;
+    border: 3px solid #dee2e6;
+    color: #f8f9fa;
+    
+    width: 32px;
+    margin-left: -5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 33px;
+    border-radius: 9px;
+    z-index: 2;
+  }
+  .fade-animation {
+    transition: opacity 0.3s ease-in-out;
+  }
+  
+  .fade-animation.fade-in {
+    opacity: 1;
+  }
+  
+  .fade-animation.fade-out {
+    opacity: 0.8;
+  }
+
+ .main-game-page-tabs button span svg {
+    margin-right: 5px !important;
+  }
+
+a#btn_how_to_play {
+    margin-right: 15px !important;
+}
+
+.input-wrapper {
+    position: relative;
+  }
+  .input-suffix {
+    position: absolute;
+    top: 60%;
+    right: 10px;
+    transform: translateY(-30%);
+  }
+
+.pre-summary-panel {
+    display: flex;
+    overflow: hidden;
+  }
+  
+  .pre-summary-panel__inner {
+    display: flex;
+    
+    flex-wrap: nowrap;
+    /* animation: ticker 195s linear infinite; */
+    pointer-events: none;
+  }
+  
+  .data-item {
+    pointer-events: auto;
+  }
+  
+  .mystery-box .data-item {
+    margin-right:10px !important;
+
+}
+
+  @keyframes ticker {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(calc(-100% - 10px));
+    }
+  }
+  .countdown-timer {
+    width: 100%;
+    height: 10px;
+    border-radius: 10px;
+    background-color: #020202;
+    overflow: hidden;
+}
+
+div[role="tablist"] {
+    min-height: unset !important;
+}
+
+
+.countdown-bar {
+    height: 100%;
+    background: linear-gradient(to top, #ff409a, #c438ef);
+    animation: countdown 1.5s linear;
+}
+
+@keyframes countdown {
+    0% {
+        width: 100%;
+    }
+    100% {
+        width: 0%;
+    }
+}
+
+
+
+
+  
+.game_header .main_header {
+    padding: 0 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.game_header .main_header {
+    box-shadow: 0px 1px 2px #f0f0f0;
+}
+.chat-wrapper div[role="tablist"] {
+    border-bottom: solid 1px  #f0f0f0;
+}
+.game_header .main_header a.game_logo {
+    width: 127px;
+    height: 34px;
+    background-image: url("/img/game-logo.svg");
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.game-type-panel .btn-game-type img {
+    width:160px !important;
+    border-radius: 7px;
+}
+
+
+
+.game-type-panel .btn-game-type span {
+    padding-right: 5px;
+}
+div[role=presentation] div:first-child {
+    backdrop-filter: blur(2px);
+}
+.game-type-panel .btn-game-type div.icon {
+    width: 100%;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 500 !important;
+}
+.game_header .main_header #btn_leaderboards {
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 20px;
+    color: #747f8d;
+    margin-right: 32px;
+}
+
+.game_header .main_header #btn_leaderboards img {
+    width: 18px;
+    height: 18px;
+    margin-right: 8px;
+}
+
+.table.main-game-table .table-row:hover {
+transform: scale(0.99);
+filter: brightness(1.09);
+transition: 0.2s;
+z-index: 999;
+cursor: pointer;
+}
+
+.game_header .main_header #btn_how_to_play:hover {
+    cursor: pointer;
+}
+#wallet-btn {margin-top: -1px; border-radius: 0 0 0.20em !important;}
+#wallet-btn:hover {
+    transform: unset !important;
+}
+
+#wallet-address {
+    text-overflow: ellipsis;
+    width: calc(100% - 10px);
+    display: inline-block;
+    direction: rtl;
+}
+
+#balance {
+    height: 32px;
+    padding: 0px 0px 32px 8px;
+    color: #212529;
+    line-height: 28px;
+    cursor: pointer;
+    background: #e9ecef;
+    font-size: 1em;
+    font-weight: 600;
+    white-space: nowrap;
+    border: 1px solid #d81719;
+    border-radius: 0.25em;
+}
+#balance svg{
+    color: #fff;
+}
+
+.game_header .main_header .header_action_panel {
+    display: flex;
+    align-items: center;
+}
+
+.game_header .main_header .header_action_panel button {
+    color: #060607;
+    margin-left: 10px;
+}
+
+.custom-tab {
+    position: relative;
+  }
+  
+  .custom-tab::before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 0;
+    height: 2px; /* Adjust the border height as needed */
+    /* background-color: #ff0003; */
+    transition: width 0.3s ease-in-out, left 0.3s ease-in-out;
+    transform: translateX(-50%);
+  }
+  
+  .custom-tab:hover::before {
+    width: 100%;
+    left: 0;
+    transform: translateX(0%);
+  }
+  
+
+.chat-content .avatar {
+    margin-bottom: 5px;
+    margin-right: 5px !important;
+}
+
+.game_header .main_header .header_action_panel img.avatar,.chat-content .avatar {
+    width: 30px;
+    height: 30px;
+    border-radius: 9px;
+    margin-right: 6px;
+}
+
+.game-page .pre-summary-panel > div.host-display-name {
+    background-size: 2em;
+}
+
+
+.level-number {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  #btn-login {
+    padding: 0px 18px !important;
+  }
+  
+  .stars {
+    font-size: 0.85em;
+    text-align: center;
+    line-height: 0.8;
+    color: #ffb000;
+  }
+  
+  .rank-badge {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .rank-badge h2 {
+    margin: 0;
+  }
+  
+  .rank-badge div {
+    margin: 0;
+  }
+  
+  #view svg{
+    width: 35px;
+    height: 35px;
+    margin-top: 7px;
+    padding: 8px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
+
+.dark_mode_toggle {
+    margin: 10px;
+}
+
+
+div.table .table-row .table-cell img.avatar,
+.game_header .main_header .header_action_panel img.avatar, .chat-content .avatar {
+    background-color: rgb(21 21 21 / 60%);
+}
+
+.your-multiplier {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+
+.your-multiplier div {
+    width: 100%; 
+}
+.room-history-panel,
+.action-panel {
+    padding: 20px;
+}
+
+.btn-back:hover,
+.btn-send-message:hover {
+    height: 40px;
+}
+.btn-send-message:hover {
+    height: 31px !important;
+}
+.dark_mode_toggle:hover {
+    /* border-radius: 20px !important; */
+    box-shadow: unset !important;
+}
+  
+.game_wrapper {
+    z-index: 1;
+    width: 100%;
+}
+
+.contents_wrapper {
+    margin-top: 70px;
+    overflow-y: auto;
+    background-color: #f2f3f5;
+}
+
+.hidden {
+    display: none !important;
+}
+.cell-likes div {
+    margin-left: -5px;
+    margin-right: -5px;
+}
+
+@media (max-width: 768px) {
+    
+    .cell-likes div {
+        margin-left: unset;
+    }
+    div.table .dont-have-game-msg div {
+        font-size: 0.75em;
+        font-weight: 600;
+    }
+    .game_header {
+        height: 62px;
+    }
+    .game_header .main_header {
+        padding: 8px 16px;
+    }
+    div.table .table-row, div.table.main-game-table .table-header {
+        margin-right: unset;
+    }
+
+    div.table div.table-row div.table-cell button {
+        margin-bottom: -5px;
+    }
+    .game_header .main_header a.game_logo {
+        width: 84px;
+        height: 34px;
+        margin-right: 20px;
+        background-image: url("/img/game-logo-mobile.svg");
+    }
+ 
+    .game_header .main_header #btn_how_to_play span {
+        display: none;
+    }
+    .game_header .main_header span#balance {
+        margin: 0;
+    }
+    .game_header .main_header .header_action_panel button span.username
+    /* ,.game_header .main_header .header_action_panel button svg  */
+    {
+        display: none;
+    }
+    .contents_wrapper {
+        height: initial;
+    }
+
+}
+.atag{
+    text-decoration: underline  !important;
+    color: aqua !important;
+}
+.availabletag {
+    float: right;
+    font-size: 12px;
+    margin-bottom: 2px;
+    margin-right: 5px;
+    color: #444;
+}
+.availabletag span{
+    text-decoration: underline !important;
+    color: aqua !important;
+}

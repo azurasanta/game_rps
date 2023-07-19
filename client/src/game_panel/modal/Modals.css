@@ -1,0 +1,569 @@
+
+/**********************/
+/***** ANIMATIONS ****/
+/**********************/
+
+@keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.2);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+
+
+/**********************/
+/***** ALERT MODAL ****/
+/**********************/
+
+.react-confirm-alert-overlay {
+    background: rgba(19, 19, 19, 0.2) !important;
+}
+
+  .react-confirm-alert .modal-body.alert-body {
+    border-radius: 0.6em !important;
+    border: 1px solid #ffffff2d;
+  }
+
+  
+  .react-confirm-alert .modal-body.alert-body.result-body{
+    animation: pulse 1s ease-in-out infinite;
+  min-width: unset !important;
+}
+
+.react-confirm-alert .modal-footer {
+    border-top: unset;
+    background: unset;
+}
+
+.react-confirm-alert .modal-body.alert-body {
+  max-width: 95vw;
+  text-align: center;
+}
+
+.btn_modal_close:hover,
+.btn-close:hover,
+.modal-body.alert-body button.btn-close:hover {
+  background-color: unset !important;
+}
+
+.modal-body .modal-icon {
+    height: 72px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    margin-bottom: 16px;
+}
+.modal-body.result-body h1 {
+    font-size: 1.2em;
+    font-weight: 700;
+}
+.modal-body.result-body .modal-icon {
+    margin-bottom: 0 !important;
+}
+.modal-body .modal-icon.alert-icon {
+    background-image: url("/img/icons/alert-icon.svg");
+}
+.modal-body .modal-icon.alert-icon-closed {
+    background-image: url("/img/icons/alert-icon-closed.svg");
+}
+.modal-body .modal-icon.alert-icon-create {
+    background-image: url("/img/icons/alert-icon-create.svg");
+}
+.modal-body .modal-icon.result-icon-draw {
+    background-image: url("/img/icons/result-icon-draw.svg");
+}
+.modal-body .modal-icon.result-icon-win {
+    background-image: url("/img/icons/result-icon-win.svg");
+}
+.modal-body .modal-icon.result-icon-lost {
+    background-image: url("/img/icons/result-icon-lost.svg");
+}
+.modal-body .modal-icon.result-icon-password {
+    background-image: url("/img/icons/result-icon-password.svg");
+}
+.modal-body.alert-body button.btn-close {
+    top: 10px;
+    right: 0;
+    position: absolute;
+}
+
+/*****************/
+/***** GLOBAL ****/
+/*****************/
+
+.ReactModal__Overlay {
+    opacity: 0;
+    transition: opacity 500ms ease-in-out;
+  }
+
+  .modal_action_panel {
+    padding-top: 20px;
+    margin-top: 10px;
+    column-gap: 10px;
+    row-gap: 10px;
+  }
+  
+  .ReactModal__Overlay--after-open {
+    opacity: 1;
+  }
+  
+  .ReactModal__Overlay--before-close {
+    opacity: 0;
+  }
+  
+  
+.ReactModal__Content {
+    border: 2px solid #6e6e6e  !important;
+    border-radius: 7px !important;
+}
+
+/*******************/
+/*** MODAL HEADER **/
+/*******************/
+
+.modal-header {
+    transform: translateY(0px);
+    border-bottom: 1px solid #747f8d;
+    background: #fdfeff;
+}
+
+.modal-header::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.3;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.8) 100%, rgba(0, 0, 0, 0) 1%), url("https://uploads-ssl.webflow.com/6097a2499efec713b2cb1c07/6452ae1e8a3838b5dbbd31c1_rock.png");
+    z-index: -1;
+  }
+  
+  .modal-header-content {
+    color: #fff !important;
+  }
+  
+  .modal-title {
+    font-size: 1.2rem !important;
+    text-transform: uppercase;
+    margin: 15px auto 10px 15px;
+    color: #060607;;
+}
+
+/*****************/
+/*** MODAL BODY **/
+/*****************/
+
+.modal-body {
+    background-color: #e5e5e5;
+    color: #747f8d;
+    max-height: 55vh;
+    min-width: 300px;
+    overflow-y: scroll;
+    position: relative;
+}
+
+.modal-body.edit-modal-body.question-modal-body div[class*='MuiPaper'] {
+    box-shadow: unset !important;
+    background-color: unset;
+}
+
+.modal-body button,
+.modal-body button.btn-back {
+	border-radius: 6px;
+}
+
+.modal-body.edit-modal-body.question-modal-body div[class*='MuiGrid-grid'] {
+    max-width: 100%;
+}
+
+
+.modal-body h4 {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.modal-body h5 {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #060607;
+    border-bottom: none !important;
+}
+
+.modal-body h5 {
+    font-size: 16px;
+    font-weight: normal;
+    color: #060607;
+}
+.modal-body p {
+    margin: 30px 0 5px;
+    font-size: 12px;
+}
+
+.modal-body {
+    width: 100%;
+    border-radius: 0 !important;
+}
+
+/*******************/
+/*** MODAL FOOTER **/
+/*******************/
+
+.modal-footer {
+    border-top: 1px solid #747f8d;
+    background:rgb(173 173 173);
+}
+.modal-footer button {
+    height: 55px;
+    background: linear-gradient(350deg, #fa58ff, #c900d8);
+    color: #747f8d;
+    padding: 0 20px;
+    font-weight: 600;
+}
+.modal-footer button.btn-submit {
+    margin: 30px 0 10px;
+    width: 100%;
+    height: 55px !important;
+    background-image: linear-gradient(to top, #ff409a, #c438ef);
+    color: white;
+    border-radius: 0.25em;
+    padding: 0 20px;
+    font-weight: 600;
+    border: 0;
+}
+.modal-footer button.btn-back {
+    margin: 20px 0px 0px 10px;
+    width: 100%;
+    height: 40px;
+    background: transparent;
+    color: #747f8d;
+    border: 1px solid #d3d7db;
+    font-weight: 600;
+}
+.modal-footer p {
+    margin-left: 15px !important;
+}
+.modal-footer p button,
+.modal-footer p span {
+    font-weight: bold;
+    cursor: pointer;
+    background: transparent;
+    font-size: 12px;
+    height: 16px;
+    margin: 0 !important;
+    width: 100%;
+}
+.modal-footer p.has-forgot-password {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.modal-footer p.has-forgot-password span {
+    display: none;
+    margin: 0;
+}
+
+/*** GAME PASSWORD MODAL ***/
+.modal-body.password-modal-body h5 {
+    text-align: center;
+}
+
+/*********************************/
+/*** WITHDRAWAL & DEPOSIT MODAL **/
+/*********************************/
+
+#withdrawal-status {
+    text-align: center;
+    font-weight: 900;
+    color: #fff;
+    padding: 20px 5px;
+    border-radius: 0.3em;
+    background: #0606075c;
+}
+#withdrawal-status h6 {
+ text-shadow: -1px 0px 2px #fff;
+}
+
+
+.modal-body.edit-modal-body.deposit-modal-body h2 {
+    font-size: 16px;
+}
+.modal-body .payment-action-panel {
+    margin-top: 10px;
+}
+
+.modal-body .withdraw-modal-tabs {
+    margin-top: 40px;
+}
+.modal-body .withdraw-modal-tabs button {
+    background-color: transparent;
+    color: #747f8d;
+    border-bottom: 2px solid transparent;
+    font-size: 16px;
+    height: 40px;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-position: 16px center;
+    padding-left: 40px;
+    padding-right: 16px;
+    border-radius: 4px 4px 0 0;
+}
+
+div[role="presentation"] div {
+    box-shadow: none;
+    border-radius: 0.3em !important;
+}
+
+div[role="presentation"] li:last-child {
+    justify-content: center;
+}
+
+.modal-body .withdraw-modal-tabs button.active {
+    background-color: #f2f3f5;
+    color: #060607;
+    border-color: #eb3db8;
+}
+.modal-body .withdraw-modal-tabs button.btn-paypal {
+    background-image: url("/img/icons/btn-paypal.svg");
+}
+.modal-body .withdraw-modal-tabs button.btn-bank {
+    background-image: url("/img/icons/btn-bank.svg");
+}
+.modal-body .withdraw-modal-tabs button.active.btn-paypal {
+    background-image: url("/img/icons/btn-paypal-active.svg");
+}
+.modal-body .withdraw-modal-tabs button.active.btn-bank {
+    background-image: url("/img/icons/btn-bank-active.svg");
+}
+
+/***********************/
+/**** PROFILE MODAL ****/
+/***********************/
+
+.align-center img,
+.AvatarDropzone img {
+    width: 130px;
+    height: 130px;
+}
+
+.user-statistics div {
+    background-color: transparent;
+    box-shadow: none !important;
+}
+
+.statistics-container {
+    grid-template-columns: 100%;
+}
+
+.apexcharts-canvas svg {
+    border-radius: 12px;
+    filter: contrast(0.8);
+    background: transparent !important;
+}
+
+.modal-body .edit-avatar-panel {
+    display: flex;
+    flex-flow: column;
+}
+.modal-body .edit-avatar-panel img.avatar {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.modal-body .modal-edit-panel {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 24px;
+    margin-top: 40px;
+}
+.modal-body .modal-edit-panel p {
+    margin-top: 0;
+}
+
+/********************/
+/*** HOW TO MODAL ***/
+/********************/
+.gamemode {
+    color: #C83228;
+}
+.modal-body .modal-content-wrapper h4 {
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 2.5;
+    background-color: rgba(187, 187, 187, 0.48);
+    padding: 0 24px 0 60px;
+    background-repeat: no-repeat;
+    background-size: 40px 40px;
+    background-position: 18px center;
+    border-radius: 13px !important;
+    margin: 4px !important;
+}
+.modal-body .modal-content-wrapper.roll h4 {
+    background-image: url("/img/icons/modal-roll.svg");
+}
+.modal-body .modal-content-wrapper.craps h4 {
+    background-image: url("/img/icons/modal-craps.svg");
+}
+.modal-body .modal-content-wrapper.roll h4 {
+    background-image: url("/img/icons/modal-roll.svg");
+}
+
+.modal-body .modal-content-wrapper.quick-shoot h4 {
+    background-image: url("/img/icons/modal-quick-shoot.svg");
+}
+.modal-body .modal-content-wrapper.rps h4 {
+    background-image: url("/img/icons/modal-rps.svg");
+}
+.modal-body .modal-content-wrapper.mystery-box h4 {
+    background-image: url("/img/icons/modal-mystery-box.svg");
+}
+.modal-body .modal-content-wrapper.spleesh h4 {
+    background-image: url("/img/icons/modal-spleesh.svg");
+}
+
+.modal-body .modal-content-wrapper.wheel h4 {
+    background-image: url("/img/icons/modal-wheel.svg");
+}
+.modal-body .modal-content-wrapper.slots h4 {
+    background-image: url("/img/icons/modal-slots.svg");
+}
+.modal-body .modal-content-wrapper.pot h4 {
+    background-image: url("/img/icons/modal-pot.svg");
+}
+.modal-body .modal-content-wrapper.clips h4 {
+    background-image: url("/img/icons/modal-clips-dark.svg");
+}
+.modal-body .modal-content-wrapper.brain-game h4 {
+    background-image: url("/img/icons/modal-brain-game.svg");
+}
+
+.modal-body .modal-content-wrapper.bang h4 {
+    background-image: url("/img/icons/modal-bang.svg");
+}
+.modal-body .modal-content-wrapper.blackjack h4 {
+    background-image: url("/img/icons/modal-blackjack.svg");
+}
+
+.modal-body .modal-content-wrapper.drop-game h4 {
+    background-image: url("/img/icons/modal-drop-game.svg");
+}
+
+.modal-body .modal-content-wrapper.house-edge h4 {
+    background-image: url("/img/icons/modal-house-edge.svg");
+}
+.modal-body .modal-content-wrapper.provably-fair h4 {
+    background-image: url("/img/icons/modal-provably-fair.svg");
+}
+.modal-body .modal-content-wrapper.support h4 {
+    background-image: url("/img/icons/modal-support.svg");
+}
+.modal-body .modal-content-wrapper div.modal-content-panel {
+    padding: 20px 24px;
+    overflow-x: scroll;
+}
+.modal-body.how-to-play-modal-body .modal-content-wrapper div.modal-content-panel p {
+    margin-top: initial;
+    margin-left: 24px;
+    font-size: 16px;
+}
+.modal-body.how-to-play-modal-body .modal-content-wrapper div.modal-content-panel ol {
+    margin-left: 36px;
+    font-size: 16px;
+}
+.modal-body.edit-modal-body.deposit-modal-body .modal-content-wrapper {
+    padding: 0;
+    margin-bottom: 0;
+}
+.modal-body.edit-modal-body.deposit-modal-body .modal-content-wrapper div.modal-content-panel {
+    padding: 24px;
+}
+.modal-body .modal-content-wrapper div.modal-content-panel p {
+    margin-top: initial;
+}
+.modal-body .modal-content-wrapper div.modal-content-panel input {
+    background-color: white;
+}
+
+
+#howto-modal {
+    width: 100%;
+  }
+  
+  div[aria-label="How To Play Modal"] th {
+    color: #343a40;
+    border-bottom: 5px solid #fff !important;
+    padding: 4px 18px;
+    margin: 20px 0;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    text-align: center;
+  }
+  
+  div[aria-label="How To Play Modal"] td {
+    border: 1px solid #fff;
+    padding: 4px 14px;
+    text-align: center;
+  }
+  div[aria-label="How To Play Modal"] ul {
+    margin-left: 1rem;
+    margin-bottom: 0;
+  }
+  
+
+@media (max-width: 768px) {
+    .accordion {
+      margin-top: 15px;
+    }
+    .modal-body {
+        max-width: 95vw;
+    }
+    .AvatarButtonPanel button:first-child {
+        display: flex;
+        align-items: center;
+    }
+ 
+    .modal-body p.sm-text-center {
+        text-align: center;
+    }
+
+    .modal-body h2.modal-title {
+        margin: 0;
+    }
+    .modal-body.edit-modal-body button.btn-close {
+        top: 2px;
+        right: 16px;
+    }
+    .modal-body .modal-edit-panel {
+        grid-template-columns: 1fr;
+    }
+    .modal-body .modal-content-wrapper h4 {
+        padding: 0 16px 0 50px;
+        background-position: 8px center;
+    }
+    .modal-body .modal-content-wrapper div.modal-content-panel {
+        padding: 16px 16px;
+    }
+    .modal-body.how-to-play-modal-body .modal-content-wrapper div.modal-content-panel ol {
+        margin-left: 20px;
+    }
+    .modal-body.how-to-play-modal-body .modal-content-wrapper div.modal-content-panel p {
+        margin-left: 8px;
+    }
+    .modal-body.edit-modal-body.deposit-modal-body .modal-content-wrapper div.modal-content-panel {
+        padding: 16px;
+    }
+
+    .react-confirm-alert .modal-body.alert-body.confirm-body {
+        padding: 32px;
+    }
+
+}

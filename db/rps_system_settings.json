@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "60405e4e3d9d8248fc0dda7e"
+  },
+  "name": "commission",
+  "value": "1",
+  "created_at": {
+    "$date": "2021-03-04T04:13:02.073Z"
+  },
+  "updated_at": {
+    "$date": "2021-03-04T04:13:02.073Z"
+  },
+  "__v": 0
+}]

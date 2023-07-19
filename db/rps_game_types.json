@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "5e2feb0072c4f93e509d0415"
+  },
+  "game_type_id": 1,
+  "game_type_name": "RPS",
+  "short_name": "RPS",
+  "created_at": {
+    "$date": "2019-12-31T16:00:00Z"
+  },
+  "updated_at": {
+    "$date": "2019-12-31T16:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "5e2feb3c4008753e50db03ed"
+  },
+  "game_type_id": 2,
+  "game_type_name": "Spleesh!",
+  "created_at": {
+    "$date": "2019-12-31T16:00:00Z"
+  },
+  "updated_at": {
+    "$date": "2019-12-31T16:00:00Z"
+  },
+  "short_name": "S!"
+},{
+  "_id": {
+    "$oid": "5e2feb474008753e50db03ee"
+  },
+  "game_type_id": 3,
+  "game_type_name": "Brain Game",
+  "created_at": {
+    "$date": "2019-12-31T16:00:00Z"
+  },
+  "updated_at": {
+    "$date": "2019-12-31T16:00:00Z"
+  },
+  "short_name": "BG"
+},{
+  "_id": {
+    "$oid": "5e2feb4f4008753e50db03ef"
+  },
+  "game_type_id": 4,
+  "game_type_name": "Mystery Box",
+  "created_at": {
+    "$date": "2019-12-31T16:00:00Z"
+  },
+  "updated_at": {
+    "$date": "2019-12-31T16:00:00Z"
+  },
+  "short_name": "MB"
+},{
+  "_id": {
+    "$oid": "5f648155332bdc3057a3fbda"
+  },
+  "game_type_id": 5,
+  "game_type_name": "Quick Shoot",
+  "short_name": "QS",
+  "created_at": {
+    "$date": "2019-12-31T16:00:00Z"
+  },
+  "updated_at": {
+    "$date": "2019-12-31T16:00:00Z"
+  }
+}]
