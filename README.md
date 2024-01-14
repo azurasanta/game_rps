@@ -90,11 +90,11 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 Clone the repo
 ```
-git clone https://github.com/rpsbet/rpsbet_mern.git
+git clone https://github.com/azurasanta/game_rps.git
 ```
 
 ```
-cd rpsbet_mern
+cd game_rps
 npm install
 ```
 
@@ -106,9 +106,9 @@ npm install
 
 For jwtToken  you will need to add  SECRET_OR_KEY=pppppp and PORT=5000
 
-Go to the `rpsbet_mern` folder and start the server.
+Go to the `game_rps` folder and start the server.
 ```
-cd rpsbet_mern
+cd game_rps
 npm run dev
 
 
